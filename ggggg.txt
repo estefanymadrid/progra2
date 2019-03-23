@@ -1,0 +1,3 @@
+cd: ingresa a un directorio 
+git: software de control 
+ls: para ver que tiene el directorio 
